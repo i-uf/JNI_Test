@@ -1,0 +1,1 @@
+g++ -I"%JAVA_HOME%/include" -I"%JAVA_HOME%/include/win32" -shared src/main/java/com/i_uf/*.cpp -o JNI_TEST.dll
